@@ -1,7 +1,8 @@
-### Hi there 👋
+### Web Front-end Developer 💻
 
 - 🌱 I’m currently learning JavaScript, React, TypeScript
 - 📫 How to reach me : swimjiy@gmail.com
+
 <!--
 **swimjiy/swimjiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
