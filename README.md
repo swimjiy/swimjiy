@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript, React, TypeScript
 - 📫 How to reach me : swimjiy@gmail.com
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swimjiy&count_private=true&hide=stars&show_icons=true)
+
 <!--
 **swimjiy/swimjiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
