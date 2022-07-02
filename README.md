@@ -17,6 +17,10 @@ I'm front-end engineer at <a href="https://krafton.com/" target="_blank" rel="no
 </div>
 <h3>Where to find me</h3>
 <div>
+<a href="https://www.linkedin.com/in/jiyoung-lim-22257a163" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyoung-lim-22257a163" />
+</a>
+<a href="https://brunch.co.kr/@swimjiy" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/my_blog-333333?style=flat-square&link=https://brunch.co.kr/@swimjiy" />
+</a>
 </div>
