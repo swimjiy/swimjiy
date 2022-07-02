@@ -2,7 +2,7 @@
 <p>
 I'm front-end engineer at <a href="https://krafton.com/" target="_blank" rel="noopener noreferrer">KRAFTON</a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=swimjiy&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=swimjiy&count_private=true&show_icons=true&theme=tokyonight" />
 <h3>Things I code with</h3>
 <div>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
